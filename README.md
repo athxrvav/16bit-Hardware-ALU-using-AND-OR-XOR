@@ -1,6 +1,6 @@
 #  16-Bit 4-Function ALU from Discrete Logic Gates
-
-This project was developed as part of my semester coursework for the Digital Electronics subject. It significantly enhanced my understanding and strengthened my foundational knowledge of the discipline. For detailed report check: [Detailed Project Report (PDF)](/Detailed%20Report.pdf)
+This project was developed by me, **[@stellar-cheese](https://github.com/stellar-cheese)** and **[@Ooyn](https://github.com/Ooyn)**.
+This project was developed as part of our semester coursework for the Digital Electronics subject. It significantly enhanced our understanding and strengthened our foundational knowledge of the discipline. For detailed report check: [Detailed Project Report (PDF)](/Detailed%20Report.pdf)
 
 <img width="1134" height="454" alt="image" src="https://github.com/user-attachments/assets/4def3e11-5261-4b28-8770-b44be4f9761d" />
 
@@ -88,6 +88,8 @@ All 8 MUX chips (74HC153) share the same global `S[1:0]` selector lines.
 | 74HC86 | Quad 2-input XOR | B-Inverter (4) + Adder logic (8) | 12 |
 | 74HC153 | Dual 4-to-1 MUX | Final result selection | 8 |
 
+---
+Make sure to use pull down resistor with dip switches. 0.1 uF capacitors (optional) can also be placed across vcc and gnd of each IC to reduce voltage fluctations, smoother operation and keep IC safe.
 **Total:** ~36 ICs
 
 **Additional components:**
