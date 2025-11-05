@@ -1,5 +1,8 @@
 #  16-Bit 4-Function ALU from Discrete Logic Gates
 
+This project was developed as part of my semester coursework for the Digital Electronics subject. It significantly enhanced my understanding and strengthened my foundational knowledge of the discipline. For detailed report check: [Detailed Project Report (PDF)](16bit-Hardware-ALU-using-AND-OR-XOR/Detailed%20Report.pdf)
+
+
 ## 1. Overview
 
 This project demonstrates the **design, simulation, and hardware implementation** of a 16-bit, 4-function Arithmetic Logic Unit (ALU).
