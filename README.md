@@ -1,8 +1,9 @@
 #  16-Bit 4-Function ALU from Discrete Logic Gates
-This project was developed by me, **[@stellar-cheese](https://github.com/stellar-cheese)** and **[@Ooyn](https://github.com/Ooyn)**.
+This project was developed by me, Naman Agarwal, **[@stellar-cheese](https://github.com/stellar-cheese)** and **[@Ooyn](https://github.com/Ooyn)**.
 This project was developed as part of our semester coursework for the Digital Electronics subject. It significantly enhanced our understanding and strengthened our foundational knowledge of the discipline. For detailed report check: [Detailed Project Report (PDF)](/Detailed%20Report.pdf)
 
-<img width="1134" height="454" alt="image" src="https://github.com/user-attachments/assets/4def3e11-5261-4b28-8770-b44be4f9761d" />
+<img width="1241" height="539" alt="image" src="https://github.com/user-attachments/assets/6f660aef-814f-4164-b969-1afc2c554292" />
+
 
 
 
