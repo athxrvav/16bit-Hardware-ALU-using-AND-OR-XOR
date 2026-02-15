@@ -105,8 +105,7 @@ Make sure to use pull down resistor with dip switches. 0.1 uF capacitors (option
 
 
 ## 6. Hardware Implementation Notes
-
--  **Decoupling is critical:** Place a 0.1 µF capacitor across Vcc–GND for each IC, as close as possible.  
+  
 -  **Build modularly:** Start with 1-bit, then 4-bit, and finally combine into the 16-bit ALU.  
 -  **Carry chain:** Ensure `C_out(i)` connects **only** to `C_in(i+1)`.  
 -  **Global control bus:** Lines `S[1]` and `S[0]` must connect to all slices in parallel.  
